@@ -84,7 +84,7 @@ alt="Developer Illustration"/>
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,react,github,git,bash"
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,git,github,bash"
   height="45" />
 </p>
 
