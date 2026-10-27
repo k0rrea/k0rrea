@@ -72,10 +72,6 @@ alt="Developer Illustration"/>
   <a href="mailto:pedrocorrea1898@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/540004544138969088">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" />
-  </a>
 </p>
 
 <br clear="right"/>
@@ -96,7 +92,7 @@ alt="Developer Illustration"/>
 ---
 <br>
 <p align="center">
-  <img src="assets/TRIGGER.jpg" alt="Banner" width="90%">
+  <img src="assets/TRIGGER.jpg" alt="Banner" width="95%">
 </p>
 
 ---
