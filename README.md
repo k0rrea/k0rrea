@@ -1,19 +1,16 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="assets/blackholemacc.png" alt="Banner" width="100%">
+  <img src="assets/binaryblackhole.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Pedro Corrêa</h1>
 
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Software Development Student</h3>
 
 <p align="center">
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
 </p>
 
-<p align="center">
-Turning curiosity into code.
-</p>
 
 <!-- ==================== ABOUT ME ==================== -->
 ## <h2 align="center">🚀 About Me </h2>
@@ -21,7 +18,7 @@ Turning curiosity into code.
 <img
 align="right"
 src="assets/astro-removebg-preview.png"
-width="280"
+width="300"
 alt="Developer Illustration"/>
 
 <p>
