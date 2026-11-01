@@ -8,7 +8,7 @@
 <h3 align="center">Software Development Student</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Hello,+World!;%3E+No+Bugs,+Just+Features;+%3E+If+It+Compiles%2C+It's++Staying;Entropy+Always+Wins;+%3E+sudo+make+me+a+sandwich;+%3E+Think+Beyond+The+Horizon alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A1A1A1FF&center=true&vCenter=true&width=700&height=60&lines=+%3E+Hello,+World!;%3E+No+Bugs,+Just+Features;+%3E+If+It+Compiles%2C+It's++Staying;+%3E+Entropy+Always+Wins;+%3E+sudo+make+me+a+sandwich;+%3E+Think+Beyond+The+Horizon alt="Typing SVG" />
 </p>
 
 <!-- ==================== ABOUT ME ==================== -->
