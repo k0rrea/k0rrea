@@ -77,21 +77,21 @@ alt="Developer Illustration"/>
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,git,github,bash"
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,docker,git,github,bash"
   height="45" />
 </p>
 
 <!-- ==================== IDE and OS ==================== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows" 
-  height="45" />
+  height="50" />
 </p>
 
 <!-- ==================== BANNER ==================== -->
 ---
 <br>
 <p align="center">
-  <img src="assets/TRIGGER.jpg" alt="Banner" width="95%">
+  <img src="assets/aurora.png" alt="Banner" width="95%">
 </p>
 
 ---
